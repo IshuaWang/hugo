@@ -1,10 +1,10 @@
 # This his the main configuration file. There are also environment specific configuration stored in the /config directory.
 
-baseURL                = "https://blog.wangyx.com/hugo"
-defaultContentLanguage = "en"
+baseURL                = "https://blog.wangyx.com/hugo/"
+defaultContentLanguage = "zh"
 enableEmoji            = true
 ignoreErrors           = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
-languageCode           = "en-us"
+languageCode           = "zh-CN"
 pluralizeListTitles    = false
 timeZone               = "Asia/Shanghai"
 title                  = "Hugo"
