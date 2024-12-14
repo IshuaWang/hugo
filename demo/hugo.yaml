@@ -3,8 +3,8 @@
 baseURL: https://blog.wangyx.com/hugo/
 title: Hugo Book
 theme: hugo-book
-canonifyURLs: true
 trailingSlash: false
+uglyURLs: true
 
 # Book configuration
 disablePathToLower: true
