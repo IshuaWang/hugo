@@ -3,7 +3,7 @@
 baseURL: https://blog.wangyx.com/hugo/
 title: Hugo Book
 theme: hugo-book
-# canonifyURLs: true
+canonifyURLs: true
 trailingSlash: false
 
 # Book configuration
